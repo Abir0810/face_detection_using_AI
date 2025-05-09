@@ -1,0 +1,10 @@
+This one is for opencv + CVLib 
+
+# fastapi
+uvicorn
+opencv-python
+cvlib
+numpy
+setuptools
+tensorflow
+python-multipart
