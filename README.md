@@ -1,5 +1,5 @@
 
-# Face Detection API (FastAPI + Mediapipe)
+# Face Detection API (FastAPI + Mediapipe+ OpenCV)
 
 This project provides a simple FastAPI-based REST API to detect whether an uploaded image contains a **full human face** using **Mediapipe**.
 
